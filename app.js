@@ -9,5 +9,3 @@ const funcs = {
 };
 
 module.exports = funcs;
-
-// this is sample program
