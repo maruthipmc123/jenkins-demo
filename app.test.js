@@ -1,4 +1,4 @@
-// app.test.js
+// app.test.js , this is unit test program
 const funcs=require('./app');
 
 test('adds 2 + 3 to equal 5', () => {
