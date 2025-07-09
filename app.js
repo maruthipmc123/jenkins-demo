@@ -1,4 +1,4 @@
-// app.js
+// this is sample app.js
 const funcs = {
       add: (num1, num2) => {
 		if (typeof num1 !== 'number' || typeof num2 !== 'number') {
